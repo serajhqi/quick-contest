@@ -1,0 +1,7 @@
+{
+    "ignore": [".git", "node_modules", "dist"],
+    "watch": ["./src","swagger-output.json"],
+    "exec": "yarn start",
+    "ext": "ts"
+}
+ 
